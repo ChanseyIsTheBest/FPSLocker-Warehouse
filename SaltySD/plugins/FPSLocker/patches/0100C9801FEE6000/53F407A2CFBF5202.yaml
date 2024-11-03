@@ -14,3 +14,12 @@ ALL_FPS:
     address: [MAIN]
     value_type: refresh_rate
     value: 30
+  -
+    type: compare
+    compare_type: "!="
+    compare_value_type: uint64
+    compare_address: [MAIN, 0x14C6978]
+    compare_value: 0
+    address: [MAIN]
+    value_type: refresh_rate
+    value: 30
