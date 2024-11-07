@@ -320,7 +320,8 @@ DETAILS contains links to documents explaining why patch is necessary, possible 
 | Jujutsu Kaisen Cursed Clash `JPN` | `01002FC012548000` | `2F33996FD9C81253` ([✅](SaltySD/plugins/FPSLocker/patches/01002FC012548000/2F33996FD9C81253.yaml), v4, 1.2.0) <br> `2E7487767D0CA0EE` ([✅](SaltySD/plugins/FPSLocker/patches/01002FC012548000/2E7487767D0CA0EE.yaml), v5, 1.3.0) | 🔴 |  |
 | Jujutsu Kaisen Cursed Clash `GLOBAL` | `010085401A454000` | `2F33996FD9C81253` ([✅](SaltySD/plugins/FPSLocker/patches/010085401A454000/2F33996FD9C81253.yaml), v4, 1.2.0) <br> `2E7487767D0CA0EE` ([✅](SaltySD/plugins/FPSLocker/patches/010085401A454000/2E7487767D0CA0EE.yaml), v5, 1.3.0) | 🔴 |  |
 | Jujutsu Kaisen Cursed Clash `US` | `010000B01A452000` | `2F33996FD9C81253` ([✅](SaltySD/plugins/FPSLocker/patches/010000B01A452000/2F33996FD9C81253.yaml), v4, 1.2.0) <br> `2E7487767D0CA0EE` ([✅](SaltySD/plugins/FPSLocker/patches/010000B01A452000/2E7487767D0CA0EE.yaml), v5, 1.3.0) | 🔴 |  |
-| JUMP FORCE | `010019D010F0E000` <br> `0100183010F12000` | `1667568420912C73` (❌, v7, 1.08) | 🟡 |  |
+| JUMP FORCE `EUR` | `010019D010F0E000` | `E1F650BD480CB465` (❌, v7, 1.08) | 🟡 |  |
+| JUMP FORCE `US` | `0100183010F12000` | `1667568420912C73` (❌, v7, 1.08) | 🟡 |  |
 | Kao the Kangaroo | `0100956016464000` <br> `010078C01769A000` | `F9C83728910E28A4` ([✅](SaltySD/plugins/FPSLocker/patches/0100956016464000/F9C83728910E28A4.yaml), v5, 1.5) <br> `7BA282E94D34C620` ([✅](SaltySD/plugins/FPSLocker/patches/010078C01769A000/7BA282E94D34C620.yaml), v5, 1.5) | 🔵 | [LINK](Methodology/Kao%20The%20Kangaroo) |
 | Katamari Damacy REROLL | `0100D7000C2C6000` | `B528B17AD9C71F41` (❌, v2, 1.2) | 🟡 |  |
 | Kiki | `0100E2D01F290000` | `722D0E06169C2458` (◯, v0, 1.0.0) | 🟢 |  |
