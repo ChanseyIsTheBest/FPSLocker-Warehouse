@@ -638,6 +638,7 @@ DETAILS contains links to documents explaining why patch is necessary, possible 
 | We Love Katamari REROLL+ Royal Reverie | `0100E71018D1A000` | `8B1BC6D7B367605F` (❌, v3, 1.0.3) | 🟡 |  |
 | What Remains of Edith Finch | `010038900DFE0000` | `E9578A470B175851` ([✅](SaltySD/plugins/FPSLocker/patches/010038900DFE0000/E9578A470B175851.yaml), v0, 1.0.0) | 🔴 | [LINK](Methodology/What%20Remains%20of%20Edith%20Finch) |
 | White Day: A Labirynth Named School | `010076601839C000` | `36D6740B3873CE4A` (◯, v1, 1.0.2) | 🟢 |  |
+| WitchSpringR | `010018401EEA8000` | `0A6D6FD636EC9D2B` (◯, v3, 1.0.5) | 🟢 |  |
 | Wolfenstein: Youngblood | `01003BD00CAAE000` | `8B40EBBA7244C94A` ([✅](SaltySD/plugins/FPSLocker/patches/01003BD00CAAE000/8B40EBBA7244C94A.yaml), v5, 1.5) | 🟡 | [LINK](Methodology/Wolfenstein%20Youngblood) |
 | Wolfenstein II: The New Colossus | `01009040091E0000` | `F2FE5EF877839F4F` ([✅](SaltySD/plugins/FPSLocker/patches/01009040091E0000/F2FE5EF877839F4F.yaml), v2, 1.2) | 🟡 | [LINK](Methodology/Wolfenstein%202%20The%20New%20Colossus/README.md) |
 | WORLD OF FINAL FANTASY MAXIMA | `010072000BD32000` | `5767FD44C331B44B` (❌, v1, 1.0.1) | 🟡 | [LINK](Methodology/WORLD%20OF%20FINAL%20FANTASY%20MAXIMA) |
