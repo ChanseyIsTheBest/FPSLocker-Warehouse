@@ -376,9 +376,10 @@ DETAILS contains links to documents explaining why patch is necessary, possible 
 | Minecraft Dungeons | `01006C100EC08000` | `13F573E3017996E4` (◯, v27, 1.17.0.0) | 🟢 |  |
 | Modern Combat Blackout | `0100D8700B712000` | `C56E6F514FADC5C5` ([✅](SaltySD/plugins/FPSLocker/patches/0100D8700B712000/C56E6F514FADC5C5.yaml), v3, 1.1.9) | 🔴 |  |
 | MONARK | `0100E4A01548C000` | `85EB6295023DD394` (◯, v1, 1.0.1) | 🟢 |  |
-| Monster Hunter Generations Ultimate | `0100770008DD8000` <br> `0100C3800049C000` | `FB08F1D20FD1204F` (❌, v4, 1.4.0) <br> `9D4C86E6EF74504A` (❌, v5, 1.5.0) | 🔴 |  |
+| Monster Hunter Generations Ultimate | `0100770008DD8000` | `FB08F1D20FD1204F` ([✅](SaltySD/plugins/FPSLocker/patches/0100770008DD8000/FB08F1D20FD1204F.yaml), v4, 1.4.0) | 🔴 |  |
 | Monster Hunter Rise `GLOBAL` | `0100B04011742000` | `C9A3DD7702075ECD` ([✅](SaltySD/plugins/FPSLocker/patches/0100B04011742000/C9A3DD7702075ECD.yaml), v34, 16.0.2) | 🔴 |  |
 | Monster Hunter Rise `JPN` | `0100559011740000` | `D2FD97779381FB9A` ([✅](SaltySD/plugins/FPSLocker/patches/0100559011740000/D2FD97779381FB9A.yaml), v34, 16.0.2) | 🔴 |  |
+| Monster Hunter XX Nintendo Switch Ver. | `0100C3800049C000` | `9D4C86E6EF74504A` ([✅](SaltySD/plugins/FPSLocker/patches/0100C3800049C000/9D4C86E6EF74504A.yaml), v5, 1.5.0) | 🔴 |  |
 | Monster Jam Showdown | `0100CE101B698000` | `AFE59FDFAC191EBD` ([✅](SaltySD/plugins/FPSLocker/patches/0100CE101B698000/AFE59FDFAC191EBD.yaml), v1, 1.0.1) <br> `820B3E993D6FE8E1` ([✅](SaltySD/plugins/FPSLocker/patches/0100CE101B698000/820B3E993D6FE8E1.yaml), v2, 1.0.2) <br> `9035B7A14BADF977` ([✅](SaltySD/plugins/FPSLocker/patches/0100CE101B698000/9035B7A14BADF977.yaml), v3, 1.0.3) <br> `C4950585861A47EE` ([✅](SaltySD/plugins/FPSLocker/patches/0100CE101B698000/C4950585861A47EE.yaml), v4, 1.0.4) | 🔵 |  |
 | Monster Jam Steel Titans | `010095C00F354000` | `8CA6136CF49F1A4F` (◯, v1, 1.0.1) | 🟢 |  |
 | Monster Jam Steel Titans 2 | `010051B0131F0000` | `E0E9D0429A2458E1` ([✅](SaltySD/plugins/FPSLocker/patches/010051B0131F0000/E0E9D0429A2458E1.yaml), v2, 1.0.2) | 🔵 | [LINK](Methodology/Monster%20Jam%20Steel%20Titans%202) |
