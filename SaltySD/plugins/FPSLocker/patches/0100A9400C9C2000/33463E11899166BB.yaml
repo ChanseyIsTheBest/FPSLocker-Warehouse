@@ -1,6 +1,6 @@
 # Tokyo Mirage Sessions #FE Encore 1.0.0
 # BID: 33463E11899166BB
-# What is still not adjusted: movement speed in cutscenes, 2D animations speed (it includes UI and 2D effects on 3D objects), none of them uses 1/30 float
+# What is still not adjusted: movement speed in cutscenes, 2D animations speed (it includes UI and 2D effects on 3D objects), none of them uses 1/30 nor 1/60 float
 
 unsafeCheck: true
 
