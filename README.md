@@ -462,6 +462,7 @@ DETAILS contains links to documents explaining why patch is necessary, possible 
 | Pokemon Shining Pearl | `010018E011D92000` | `38F59CBDA2EB9C44` (❌, v6, 1.3.0) | 🔵 |  |
 | Pokemon Sword | `0100ABF008968000` | `A3B75BCD3311385A` (❌, v7, 1.3.3) | 🟡 | [LINK](Methodology/Pokemon%20Sword) |
 | Pokemon Violet | `01008F6008C5E000` | `709BFD6611529864` (❌, v11, 3.0.1) | 🟡 | [LINK](Methodology/Pokemon%20Violet) |
+| Poppy Playtime: Chapter 2 | `0100D3801E6CE000` | `E3A3FC8EEC76A4FB` ([✅](SaltySD/plugins/FPSLocker/patches/0100D3801E6CE000/E3A3FC8EEC76A4FB.yaml), v1, 1.1) | 🔵 |  |
 | Portal Knights | `0100437004170000` | `D59D81C06F923846` (❌, v8, 1.7.2) | 🔵 |  |
 | Potion Permit | `010025F0126FE000` | `AD82AD3876C3747B` (◯, v12, 1.0.12) | 🟢 |  |
 | PowerWash Simulator | `0100926016012000` | `8EACFE3E9E92B0FE` ([✅](SaltySD/plugins/FPSLocker/patches/0100926016012000/8EACFE3E9E92B0FE.yaml), v12, 1.7.0) <br> `7FF42DE6AA57290B` ([✅](SaltySD/plugins/FPSLocker/patches/0100926016012000/7FF42DE6AA57290B.yaml), v16, 1.9.1) | 🔴 |  |
