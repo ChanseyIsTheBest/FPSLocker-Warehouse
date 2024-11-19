@@ -411,7 +411,7 @@ DETAILS contains links to documents explaining why patch is necessary, possible 
 | New Super Lucky's Tale | `010017700B6C2000` | `14872049185C584C` (◯, v3, 1.5.9) | 🟢 |  |
 | New Tales from the Borderlands | `01002B7013440000` | `A19E113723E5C32E` ([✅](SaltySD/plugins/FPSLocker/patches/01002B7013440000/A19E113723E5C32E.yaml), v2, 1.0.2) | 🔴 | [LINK](Methodology/New%20Tales%20from%20the%20Borderlands) |
 | Ni no Kuni: Wrath of the White Witch | `0100E5600D446000` | `C32B29CB5FBA96D9` ([✅](SaltySD/plugins/FPSLocker/patches/0100E5600D446000/C32B29CB5FBA96D9.yaml), v2, 1.0.2) | 🟡 |  |
-| Nickelodeon All-Star Brawl 2 | `010010701AFB2000` | `8C1B07DDCA5A20B0` (◯, v13, 1.13.0) | 🟢 |  |
+| Nickelodeon All-Star Brawl 2 | `010010701AFB2000` | `533BE14853365083` (◯, v14, 1.14.0) | 🟢 |  |
 | NieR:Automata `ASIA` | `0100B8E016F76000` | `992787E2B5425994` ([✅](SaltySD/plugins/FPSLocker/patches/0100B8E016F76000/992787E2B5425994.yaml), v1, 1.0.2) | 🔵 |  |
 | NieR:Automata `GLOBAL` | `010056B015FE8000` | `E43525F22282A477` ([✅](SaltySD/plugins/FPSLocker/patches/010056B015FE8000/E43525F22282A477.yaml), v1, 1.0.2) | 🔵 |  |
 | Nights Of Azure 2: Bride of the New Moon | `0100628004BCE000` | `81DA4F9E1E961CA6` ([✅](SaltySD/plugins/FPSLocker/patches/0100628004BCE000/81DA4F9E1E961CA6.yaml), v1, 1.0.1) | 🔵 |  |
