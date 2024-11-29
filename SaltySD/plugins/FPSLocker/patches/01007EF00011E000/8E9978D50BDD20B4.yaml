@@ -206,7 +206,6 @@ ALL_FPS:
     address: [MAIN, 0x2D65C94]
     value_type: int32
     value: "VSYNC_TARGET * -1"
-ALL_REFRESH_RATES:
   # Prerendered cutscenes must be played at 30 FPS
   -
     type: compare
