@@ -37,7 +37,7 @@ As the list is filled by community, it may not be up to date.
 
 > 🖌️ - *UI broken animations* - game must be adjusted to have them rendered correctly at higher FPS, example: `Another Code: Recollection`
 
-> 📺 - *Cutscenes* - they must be blocked to certain framerate to not be have issues, example: `The Legend of Zelda: Breath of the Wild`
+> 📺 - *Cutscenes* - they must be blocked to certain framerate to not cause issues, example: `The Legend of Zelda: Breath of the Wild`
 
 > 🎮 - *Button polling* - it must be adjusted to not miss button presses at higher FPS, example: `NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 ROAD TO BORUTO`
 
