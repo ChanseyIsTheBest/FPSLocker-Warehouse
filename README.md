@@ -43,7 +43,7 @@ As the list is filled by community, it may not be up to date.
 
 > 🔢 - *Logic* - it must be fixed to work correctly at higher FPS, example: `Pikmin 4`
 
-> 🔧 - *Hindered performance* - something in game is causing performance issues at higher FPS, either on its own - `r.Sync` setting in UE4/UE5 games) or when something from the above is adjusted, example: `Outer Wilds`
+> 🔧 - *Hindered performance* - something in game is causing performance issues at higher FPS, either on its own (`r.Sync` setting in UE4/UE5 games) or when something from the above is adjusted, example: `Outer Wilds`
 
 PATCH AVAILABILITY<br>
 ✝️ - patch is not possible to create<br>
