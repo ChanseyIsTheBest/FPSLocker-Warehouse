@@ -418,7 +418,7 @@ PATCH AVAILABILITY<br>
 | MotoGP 24 | `010040401D564000` | `1053EA8AD2A50F15` ([✅](SaltySD/plugins/FPSLocker/patches/010040401D564000/1053EA8AD2A50F15.yaml), v5, 1.0.5) | 📏🔧 |
 | Moving Out | `0100C4C00E73E000` | `CB3172ED0C3BC646` (◯, v6, 1.0.6) | 🟢 |
 | Moving Out 2 | `010065D018172000` | `C552B6464E7348A7` (◯, v5, 1.3.315) | 🟢 |
-| My Time at Sandrock | `0100B63016916000` | `D90870E2BE069A5C` (◯, v11, 1.4.1.0) | 🟢 |
+| My Time at Sandrock | `0100B63016916000` | `02BFC4DA75A31FA3` (◯, v12, 1.4.1.1) | 🟢 |
 | Mythic Ocean | `0100F4F014108000` | `2284DFB25F387719` ([✅](SaltySD/plugins/FPSLocker/patches/0100F4F014108000/2284DFB25F387719.yaml), v1, 1.0.1) | 🔐📏 |
 | NARUTO SHIPPUDEN:<br>Ultimate Ninja STORM 4<br>ROAD TO BORUTO | `01006CF00CF60000` | `D3016FC0C0402DFB` (❌, v3, 1.3.0) | 🔐⏱️🖥️🎮 |
 | NARUTO X BORUTO<br>Ultimate Ninja STORM<br>CONNECTIONS | `01005A20190A6000` | `19F9F3A6A7195629` (❌, v8, 1.5.0) | 🔐⏱️🖥️ |
