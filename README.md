@@ -404,7 +404,7 @@ PATCH AVAILABILITY<br>
 | Minecraft Dungeons | `01006C100EC08000` | `13F573E3017996E4` (◯, v27, 1.17.0.0) | 🟢 |
 | Modern Combat Blackout | `0100D8700B712000` | `C56E6F514FADC5C5` ([✅](SaltySD/plugins/FPSLocker/patches/0100D8700B712000/C56E6F514FADC5C5.yaml), v3, 1.1.9) | 🔐📏 |
 | MONARK | `0100E4A01548C000` | `85EB6295023DD394` (◯, v1, 1.0.1) | 🟢 |
-| MONOPOLY | `01002C201BC40000` | `B09F5FCC3E48A144` (◯, v3, 1.3) | 🟢 |
+| MONOPOLY | `01002C201BC40000` | `4E01593741A531D4` (◯, v4, 1.4) | 🟢 |
 | Monster Hunter Generations Ultimate | `0100770008DD8000` | `FB08F1D20FD1204F` ([✅](SaltySD/plugins/FPSLocker/patches/0100770008DD8000/FB08F1D20FD1204F.yaml), v4, 1.4.0) | 🔐 |
 | Monster Hunter Rise `GLOBAL` | `0100B04011742000` | `C9A3DD7702075ECD` ([✅](SaltySD/plugins/FPSLocker/patches/0100B04011742000/C9A3DD7702075ECD.yaml), v34, 16.0.2) | 🔐 |
 | Monster Hunter Rise `JPN` | `0100559011740000` | `D2FD97779381FB9A` ([✅](SaltySD/plugins/FPSLocker/patches/0100559011740000/D2FD97779381FB9A.yaml), v34, 16.0.2) | 🔐 |
