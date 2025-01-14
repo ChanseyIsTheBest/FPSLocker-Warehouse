@@ -272,6 +272,7 @@ PATCH AVAILABILITY<br>
 | Flooded | `010022201D254000` | `AF274CB758733A56` (❌, v1, 1.0.1) | 🔐⏱️🖥️ |
 | Forgive Me Father | `0100A2A01A026000` | `008F995D1A63B383` ([✅](SaltySD/plugins/FPSLocker/patches/0100A2A01A026000/008F995D1A63B383.yaml), v2, 1.5.4.3) | 📏🔧 |
 | Forrader Hero | `01007C801D5B8000` | `D62574E9298D0AAE` (◯, v0, 1.0) | 🟢 |
+| FREEDOM WARS | `010075201F578000` | `C092D88729FE6194` (❌, v2, 1.2.0) | 🔐⚔️👄🖥️🏃 |
 | Fresh Start | `0100AA001BAB8000` | `9B2BC4BAF72D350A` (❌, v0, 1.0.0) | ⚔️ |
 | FROGUN DELUXE EDITION | `0100A0A018D3A000` | `7FA5168E6BEA2A40` (◯, v3, 1.3) | 🟢 |
 | From Space | `010015F018C3C000` | `9806FB67CE24E904` ([✅](SaltySD/plugins/FPSLocker/patches/010015F018C3C000/9806FB67CE24E904.yaml), v3, 1.3.480) | 📏 |
